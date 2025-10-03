@@ -27,9 +27,9 @@ ScreenGui.Name = "JeffTheKillerWuzHere"
 VideoScreen.Parent = ScreenGui
 VideoScreen.Size = UDim2.new(1,0,1,0)
 
-writefile("giahuycute.mp4", game:HttpGet("https://raw.githubusercontent.com/huyhack126a4-dev/behuyloli/main/giahuycute.mp4?raw=true"))
+writefile("yes.mp4", game:HttpGet("https://github.com/huyhack126a4-dev/behuyloli/blob/main/videos/giahuycute.mp4?raw=true"))
 
-VideoScreen.Video = getcustomasset("giahuycute.mp4")
+VideoScreen.Video = getcustomasset("yes.mp4")
 
 VideoScreen.Looped = true
 VideoScreen.Playing = true
